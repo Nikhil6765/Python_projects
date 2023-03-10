@@ -1,4 +1,4 @@
-n=int(input('enter number : '))
+n=int(input('enter number between 0 and 999 : '))
 
 
 l1=[' ','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','ninteen']
