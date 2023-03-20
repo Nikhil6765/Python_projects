@@ -1,4 +1,4 @@
-n=int(input('enter how many prime numbers you want : '))
+n=int(input('Enter how many prime numbers you want : '))
 n1=2
 count=0
 while True:

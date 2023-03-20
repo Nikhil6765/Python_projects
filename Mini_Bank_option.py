@@ -18,8 +18,8 @@ class customer:
             print('after withdraw, balance :',self.balance)
 
 
-print('welcome to :',customer.bankname)
-name=input('enter your name : ')
+print('Welcome to :',customer.bankname)
+name=input('Enter Your Name : ')
 c=customer(name)
 while True:
     print('d-Deposit \n w- withdraw \n e-exit')
