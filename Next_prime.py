@@ -8,4 +8,6 @@ def next_prime(n):
         else:
             return n
 
-print(next_prime(13))
+
+number=int(input("Enter the number to get next prime number : "))
+print(next_prime(number))
